@@ -1,0 +1,8 @@
+{
+    "version": "0.5",
+    "requires": [],
+    "build_requires": [
+        "b2/4.10.0#ae7cdd42c5ff775a247b5011613483cf%1686517590.04"
+    ],
+    "python_requires": []
+}
