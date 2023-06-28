@@ -1,3 +1,7 @@
+# Requirements:
+pip install numpy --user --upgrade
+
+# Build
 rm -rf build
 rm conan.lock
 
