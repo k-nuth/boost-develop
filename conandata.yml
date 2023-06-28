@@ -1,6 +1,11 @@
+# url: "https://github.com/boostorg/boost/archive/refs/heads/develop.zip"
+
 sources:
+  "cci.20230627":
+    url: "https://github.com/boostorg/boost.git"
+    commit: "c944bd70bab75597ea573526c191a25cc74b0f30"
+    sha256: "ee07da9451e99a37045755cb031c4c5403c42b33a0f3ac196492f23da92f21f7"
   "cci.20230614":
-    # url: "https://github.com/boostorg/boost/archive/refs/heads/develop.zip"
     url: "https://github.com/boostorg/boost.git"
     commit: "031aa613cb64cf4576c8fa8ccdef9cd7f9817967"
     sha256: "658f163ef44db3da187c71ccc58fd3e5ad3de2c1afed76476c9e3dc0630f9849"
